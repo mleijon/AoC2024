@@ -2,7 +2,7 @@ from collections import Counter
 l1 = []
 l2 = []
 
-with open("input.txt") as f:
+with open("d1_input.txt") as f:
     for row in f:
         l1.append(int(row.split()[0]))
         l2.append(int(row.split()[1]))
