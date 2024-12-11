@@ -64,7 +64,7 @@ with open("d4_input.txt") as f:
                 count += 1
         except:
             pass
-print('The answer to part 1 is: {}'.format(count))
+print('The answer to part 2 is: {}'.format(count))
 
 
 
